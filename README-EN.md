@@ -1249,7 +1249,7 @@ frequency_words.txt file added **required word** feature, using + sign
    1. **View Generated URL**:
       - In "Webhook URLs for Your Workspace" section
       - You'll see the newly generated Webhook URL
-      - Format: `https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX`
+      - Format: `https://hooks.slack.com/services/YOUR_TEAM_ID/YOUR_CHANNEL_ID/YOUR_WEBHOOK_TOKEN`
 
    2. **Copy URL**:
       - Click **"Copy"** button on the right of URL

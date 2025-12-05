@@ -1304,7 +1304,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    1. **查看生成的 URL**：
       - 在 "Webhook URLs for Your Workspace" 区域
       - 会看到刚刚生成的 Webhook URL
-      - 格式如：`https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX`
+      - 格式如：`https://hooks.slack.com/services/YOUR_TEAM_ID/YOUR_CHANNEL_ID/YOUR_WEBHOOK_TOKEN`
 
    2. **复制 URL**：
       - 点击 URL 右侧的 **"Copy"** 按钮
